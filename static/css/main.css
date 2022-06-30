@@ -1,3 +1,22 @@
+
 .vol_img{
     background-image: url(../images/volume.png);
+}
+
+.vol_pg2_img{
+    background-image: url(../images/vol-2.png);
+}
+
+.vol_pg3_img{
+    background-image: url(../images/vol-3.png);
+}
+
+
+
+.vol_bgcolor_bk{
+    background-color: black;
+}
+
+.vol_section_title{
+    color:white;
 }
