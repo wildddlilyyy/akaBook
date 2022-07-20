@@ -1453,7 +1453,7 @@ section,
     section,
     .slide {
       padding-bottom: 12rem;
-      padding-top: 12rem; } }
+      padding-top: 10rem; } }
 
 /*slide with no padding (full card, .embed youtube video...) */
 .fullscreen {
@@ -1530,7 +1530,8 @@ form[class*='bg-'] {
 /*=== BG Positions === */
 .background {
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-color: #202124;
   /*fullscreen video
     <video class="background-video">
   */ }
